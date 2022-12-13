@@ -1,11 +1,6 @@
 # Linux Monitoring v1.0
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/iWe8U8GKmbxqvZJfA)
-
 Linux basic bash scripting and system research.
-
-The russian version of the task can be found in the repository.
 
 ## Contents
 
@@ -19,26 +14,8 @@ The russian version of the task can be found in the repository.
     3.3. [Visual output design for the system research script](#part-3-visual-output-design-for-the-system-research-script)   
     3.4. [Configuring visual output design for the system research script.](#part-4-configuring-visual-output-design-for-the-system-research-script)  
     3.5. [File system research](#part-5-file-system-research)    
-4. [Chapter IV](#chapter-iv)
 
 ## Chapter I
-
-![linux_monitoring_v1](misc/images/linux_monitoring_v1.png)
-
-Planet Earth, USA, California, nowadays.
-
-You have been working late, as usual, to avoid driving home through rush hour traffic.
-You think there is no one else in the office but you, until you hear noises from the office next door.
-You don't pay much attention to it, any colleague might have stayed late to finish his business.
-Suddenly you hear a yell from that very office (your colleague obviously thought he was alone):
-
-`-` Ugh, I am so tired of collecting system information by hand from these computers on Linux. I probably should have learned it better before applying for the job.
-
-You quickly realise that this is your new system administrator, hired just a couple of weeks ago. At the initiative of your teammate Mike, Linux have been installed on several machines in the office.
-Your sysadmin is really trying, he's just unlucky to get a job now. \
-"Poor guy. -- you thought. -- I should try to help him, since I have the time!"
-
-You go to Mike's desk and do something bad: you look in his drawer. You are lucky to find exactly what you were looking for: clippings from articles about bash and shell.
 
 ## Chapter II
 
@@ -217,19 +194,3 @@ etc up to 10
 Script execution time (in seconds) = 1.5
 ```
 
-
-## Chapter IV
-
-Well, now you've done all the work you wanted to do. You had to stay a little longer than usual, but it was worth it.
-You pack up your stuff and, on your way out of the office, you looked into the room where you heard your colleague earlier.
-
-`-` Hey, may I come in? - you knocked on the door.
-
-`-` Yes... just a second. I didn't think there was anyone else here at this hour.
-
-The door opened and, after a short conversation, you handed the inexperienced sysadmin a flash drive with the scripts.
-You said goodbye and were about to leave when you remembered an important detail.
-
-`-` Oh, I completely forgot to ask. What's your name?
-
-`-` Sebastian.
